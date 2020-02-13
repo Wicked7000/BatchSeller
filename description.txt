@@ -1,0 +1,7 @@
+Batch seller allows you to sell all items of the same type with a trader via hotkey. (Hold B and click the item while in the trader to batch sell).
+NOTE: if the mod seems to not be working the control is likely unbound, go to controls -> mod controls, change the batchSell to any key you like.
+
+- Favorited items will not be sold.
+- Only sells items that are in your inventory (Not in other slots such as your armour).
+- Will print a sell recap into the chat when items are sold. (can be disabled in mod settings).
+- Can be limited to only sell items of the same prefix (if enabled in the mod settings).

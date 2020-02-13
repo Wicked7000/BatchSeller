@@ -1,0 +1,3 @@
+displayName = Batch Seller
+author = Wicked7000
+version = 0.1
